@@ -8,4 +8,3 @@ of the big datasets to decrease the training time and try different model archit
 and training strategies. Eventually, we developed an efficient strategy to train such a model, using the
 latest advances in deep learning, on a relatively small dataset and with extremely short training times
 
-![Screenshot 2023-09-14 130025](https://github.com/ajaynirmal22/Sketch-and-GrayScale-Image-Colorization/assets/100990154/a1c7c3bd-efd3-4336-8321-3f81d7cd173d)
